@@ -1,0 +1,12 @@
+# Gradle outputs
+build/
+.gradle/
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Output
+out/
+sk-bootstrap.jar
